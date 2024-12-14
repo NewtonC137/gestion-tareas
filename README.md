@@ -35,3 +35,12 @@ El proyecto contiene los siguientes archivos:
    ```bash
    git clone https://github.com/tu_usuario/gestion-tareas.git
    cd gestion-tareas
+   
+2. Instala las dependencias:
+   -`pip install streamlit sqlalchemy`
+
+3. Inicia la aplicación:
+   -`streamlit run app.py`
+
+
+
