@@ -33,14 +33,14 @@ El proyecto contiene los siguientes archivos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/gestion-tareas.git
+   git clone https://github.com/NewtonC137/gestion-tareas.git
    cd gestion-tareas
    
 2. Instala las dependencias:
-   -`pip install streamlit sqlalchemy`
+-`pip install streamlit sqlalchemy`
 
 3. Inicia la aplicación:
-   -`streamlit run app.py`
+-`streamlit run app.py`
 
 
 
