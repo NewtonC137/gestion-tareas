@@ -115,14 +115,14 @@ tasks = list_tasks(filter_option)
 # Listar tareas
 st.header("Lista de Tareas")
 for task in tasks:
-    st.markdown("---")  # Separador entre tareas
+    st.markdown("---") 
     col1, col2 = st.columns([3, 2])
     with col1:
         status = "Completada" if task.completed else "Pendiente"
         st.write(f"**{task.title}** ({status})")
         st.write(task.description)
     with col2:
-        btn1, btn2 = st.columns(2)  # Botones lado a lado
+        btn1, btn2 = st.columns(2) 
         with btn1:
             if not task.completed:
                 if st.button("Completada", key=f"complete_{task.id}"):
@@ -150,5 +150,3 @@ with col6:
         if st.button("Importar tareas"):
             import_tasks()
             st.rerun()
-
-# Fin de la aplicación
