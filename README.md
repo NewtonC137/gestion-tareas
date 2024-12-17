@@ -52,7 +52,7 @@ A continuación se muestra cómo utilizar el administrador de tareas:
 1. Ingresa un título y una descripción para la nueva tarea.
 2. Haz clic en "Agregar".
 
-![Agregar Tarea]([ruta/a/tu/imagen/agregar_tarea.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Agregar.png?raw=true))
+![Agregar Tarea]((https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Agregar.png?raw=true))
 
 ### Listar Tareas
 
