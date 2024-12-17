@@ -52,7 +52,8 @@ A continuación se muestra cómo utilizar el administrador de tareas:
 1. Ingresa un título y una descripción para la nueva tarea.
 2. Haz clic en "Agregar".
 
-![Agregar Tarea]([Imagenes/Agregar.png])
+![Agregar](https://github.com/user-attachments/assets/847da0aa-87f0-406e-8ac9-7fd6dea8c4be)
+
 
 ### Listar Tareas
 
