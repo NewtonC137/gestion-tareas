@@ -55,32 +55,47 @@ A continuación se muestra cómo utilizar el administrador de tareas:
 ![Agregar](https://github.com/user-attachments/assets/847da0aa-87f0-406e-8ac9-7fd6dea8c4be)
 
 
+
+
 ### Listar Tareas
 
 - Las tareas se mostrarán en la lista. Puedes filtrar por estado (todas, pendientes, completadas).
 
-![Listar Tareas]([Imagenes/listar_tareas.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Agregar.png?raw=true)](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Listar.png?raw=true))
+![Listar](https://github.com/user-attachments/assets/53c9bc2f-83c8-40fb-a8b0-cc416787ef96)
+
+
 
 ### Completar Tarea
 
 - Haz clic en "Completada" para marcar una tarea como completada.
 
-![Completar Tarea]([ruta/a/tu/imagen/completar_tarea.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Completar.png?raw=true))
+![Completar](https://github.com/user-attachments/assets/08009ce0-d7fc-4e9f-a272-8ed0973c90d4)
+
+
 
 ### Eliminar Tarea
 
 - Haz clic en "Eliminar" para borrar una tarea específica.
 
-![Eliminar Tarea]([ruta/a/tu/imagen/eliminar_tarea.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Eliminar.png?raw=true))
+![Eliminar](https://github.com/user-attachments/assets/b2e7904c-4a2d-40f5-80b9-e7fdbdc82306)
+
+
+
 
 ### Eliminar Tareas Completadas
 
 - Haz clic en "Eliminar tareas completadas" para borrar todas las tareas que ya han sido completadas.
 
-![Eliminar Tareas Completadas]([ruta/a/tu/imagen/eliminar_tareas_completadas.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Eliminar_completadas1.png?raw=true))(https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Eliminar_completadas2.png?raw=true)
+![Eliminar_completadas1](https://github.com/user-attachments/assets/8d8dc394-b497-4ba4-830a-cbb3f5165a3b)
+
+![Eliminar_completadas2](https://github.com/user-attachments/assets/fe17b82e-a1a6-4564-af6d-7cfd99c8b5bb)
+
+
 
 ### Exportar e Importar Tareas
 
 - Usa los botones correspondientes para exportar las tareas a un archivo JSON o importar tareas desde un archivo JSON.
 
-![Exportar e Importar Tareas]([ruta/a/tu/imagen/exportar_importar_tareas.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Importar1.png?raw=true)https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Importar2.png?raw=true)
+![Importar1](https://github.com/user-attachments/assets/250011ec-e06e-410d-b642-d7e83ffea1e2)
+
+![Importar2](https://github.com/user-attachments/assets/db900515-4be8-4c8e-9199-b15df6a63845)
