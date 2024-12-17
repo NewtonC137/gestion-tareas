@@ -43,4 +43,53 @@ El proyecto contiene los siguientes archivos:
 -`streamlit run app.py`
 
 
+## Uso
+
+A continuación se muestra cómo utilizar el administrador de tareas:
+
+### Agregar Tarea
+
+1. Ingresa un título y una descripción para la nueva tarea.
+2. Haz clic en "Agregar".
+
+![Agregar Tarea](ruta/a/tu/imagen/agregar_tarea.png)
+
+### Listar Tareas
+
+- Las tareas se mostrarán en la lista. Puedes filtrar por estado (todas, pendientes, completadas).
+
+![Listar Tareas](ruta/a/tu/imagen/listar_tareas.png)
+
+### Completar Tarea
+
+- Haz clic en "Completada" para marcar una tarea como completada.
+
+![Completar Tarea](ruta/a/tu/imagen/completar_tarea.png)
+
+### Eliminar Tarea
+
+- Haz clic en "Eliminar" para borrar una tarea específica.
+
+![Eliminar Tarea](ruta/a/tu/imagen/eliminar_tarea.png)
+
+### Eliminar Tareas Completadas
+
+- Haz clic en "Eliminar tareas completadas" para borrar todas las tareas que ya han sido completadas.
+
+![Eliminar Tareas Completadas](ruta/a/tu/imagen/eliminar_tareas_completadas.png)
+
+### Exportar e Importar Tareas
+
+- Usa los botones correspondientes para exportar las tareas a un archivo JSON o importar tareas desde un archivo JSON.
+
+![Exportar e Importar Tareas](ruta/a/tu/imagen/exportar_importar_tareas.png)
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
 
