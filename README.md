@@ -52,44 +52,34 @@ A continuación se muestra cómo utilizar el administrador de tareas:
 1. Ingresa un título y una descripción para la nueva tarea.
 2. Haz clic en "Agregar".
 
-![Agregar Tarea](ruta/a/tu/imagen/agregar_tarea.png)
+![Agregar Tarea]([ruta/a/tu/imagen/agregar_tarea.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Agregar.png?raw=true))
 
 ### Listar Tareas
 
 - Las tareas se mostrarán en la lista. Puedes filtrar por estado (todas, pendientes, completadas).
 
-![Listar Tareas](ruta/a/tu/imagen/listar_tareas.png)
+![Listar Tareas]([ruta/a/tu/imagen/listar_tareas.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Agregar.png?raw=true)](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Listar.png?raw=true))
 
 ### Completar Tarea
 
 - Haz clic en "Completada" para marcar una tarea como completada.
 
-![Completar Tarea](ruta/a/tu/imagen/completar_tarea.png)
+![Completar Tarea]([ruta/a/tu/imagen/completar_tarea.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Completar.png?raw=true))
 
 ### Eliminar Tarea
 
 - Haz clic en "Eliminar" para borrar una tarea específica.
 
-![Eliminar Tarea](ruta/a/tu/imagen/eliminar_tarea.png)
+![Eliminar Tarea]([ruta/a/tu/imagen/eliminar_tarea.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Eliminar.png?raw=true))
 
 ### Eliminar Tareas Completadas
 
 - Haz clic en "Eliminar tareas completadas" para borrar todas las tareas que ya han sido completadas.
 
-![Eliminar Tareas Completadas](ruta/a/tu/imagen/eliminar_tareas_completadas.png)
+![Eliminar Tareas Completadas]([ruta/a/tu/imagen/eliminar_tareas_completadas.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Eliminar_completadas1.png?raw=true))(https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Eliminar_completadas2.png?raw=true)
 
 ### Exportar e Importar Tareas
 
 - Usa los botones correspondientes para exportar las tareas a un archivo JSON o importar tareas desde un archivo JSON.
 
-![Exportar e Importar Tareas](ruta/a/tu/imagen/exportar_importar_tareas.png)
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir, por favor abre un issue o envía un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-
+![Exportar e Importar Tareas]([ruta/a/tu/imagen/exportar_importar_tareas.png](https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Importar1.png?raw=true)https://github.com/NewtonC137/gestion-tareas/blob/main/Imagenes/Importar2.png?raw=true)
