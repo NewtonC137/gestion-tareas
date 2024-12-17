@@ -52,7 +52,7 @@ A continuación se muestra cómo utilizar el administrador de tareas:
 1. Ingresa un título y una descripción para la nueva tarea.
 2. Haz clic en "Agregar".
 
-![Agregar Tarea]((Imagenes/Agregar.png))
+![Agregar Tarea]([Imagenes/Agregar.png])
 
 ### Listar Tareas
 
